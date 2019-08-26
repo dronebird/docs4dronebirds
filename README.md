@@ -1,3 +1,5 @@
+<a href="https://github.com/dronebird/docs4dronebirds/blob/master/DRONEBIRDposter_2017-04-06%20(2).pdf"><img src="https://github.com/dronebird/docs4dronebirds/blob/master/dronebird_posters.jpg?raw=true" width=600 ></a>
+
 # docs4dronebirds
 ドローンバード関連のドキュメント、コンテンツ類
 
