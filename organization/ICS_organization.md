@@ -23,4 +23,5 @@
 ---
 
 * Licenses:
+
 [© Sadatoshi5, CC BY-SA 3.0, From Wikimedia Commons, the free media repository](https://commons.wikimedia.org/wiki/File:ICS_Organization.jpg)
