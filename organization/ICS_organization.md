@@ -10,12 +10,15 @@
 * 広報官 (Public Information Officer)
 
 * 安全監督官 (Safety Officer)
+   * みなみ まさき (Masaki Minami)
 
 * 渉外官 (Liaison Officer)
    * 福本 塁 (Rui Fukumoto)
 
 ## 実行部 (Operations)
 ![ICS Operation.jpg](https://github.com/dronebird/docs4dronebirds/blob/master/organization/ICS_Operation.jpg?raw=true)
+* 実行部(Operations Leader) 
+   * みなみ まさき (Masaki Minami)
 
 ### 支部 (Branch)
 * 支部長(Branch Leader) 
@@ -23,10 +26,17 @@
 
 
 ## 計画情報部 (Planning)
-### 勢力係 (Resources Unit)： 集まってきた勢力（人・物）のチェックインを担当し、現在、どのような人員が利用可能なのか、どんな資機材があるのかを管理する。
-### 状況係 (Situation Unit)： 最新の状況を常に把握し、状況報告書、状況掲示板、地図やプロジェクターの原稿などを作成する。
-### 文書係 (Documentation Unit)： 現場作業計画 (Incident Action Plan) を作成すると同時に、すべての関連文書を整理する。
-### 解除係 (Demobilization Unit)： 必要のない勢力の任務解除計画を作成する。
+### 勢力係 (Resources Unit)
+集まってきた勢力（人・物）のチェックインを担当し、現在、どのような人員が利用可能なのか、どんな資機材があるのかを管理する。
+
+### 状況係 (Situation Unit)
+最新の状況を常に把握し、状況報告書、状況掲示板、地図やプロジェクターの原稿などを作成する。
+
+### 文書係 (Documentation Unit)
+現場作業計画 (Incident Action Plan) を作成すると同時に、すべての関連文書を整理する。
+
+### 解除係 (Demobilization Unit)
+必要のない勢力の任務解除計画を作成する。
 
 
 ## 後方支援部 (Logistics)
