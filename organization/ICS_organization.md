@@ -3,7 +3,7 @@
 # DRONEBIRD Organization [based on ICS](https://ja.wikipedia.org/wiki/インシデント・コマンド・システム) 
 ## 指揮部 (Command)
 ### 現場指揮官 (Incident Commander) 
-* 古橋 大地 （Taichi Furuhashi）
+* 古橋 大地 (Taichi Furuhashi)
 * 藤井 十章 (Kazuaki Fujii)
 
 ### 指揮部幕僚 (Command Staff) 
