@@ -1,3 +1,5 @@
+![ICS Organization](https://github.com/dronebird/docs4dronebirds/blob/master/organization/ICS_Organization.jpg?raw=true)
+
 # DRONEBIRD Organization based on ICS 
 ## 指揮 (Command)
 ### 現場指揮官 (Incident Commander) 
