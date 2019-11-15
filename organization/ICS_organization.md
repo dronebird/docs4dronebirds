@@ -10,7 +10,7 @@
 * 広報官 (Public Information Officer)
 
 * 安全監督官 (Safety Officer)
-   * みなみ まさき (Masaki Minami)
+   * 下田 亮 (Ryo Shimoda) [仮]
 
 * 渉外官 (Liaison Officer)
    * 福本 塁 (Rui Fukumoto)
@@ -18,7 +18,7 @@
 ## 実行部 (Operations)
 ![ICS Operation.jpg](https://github.com/dronebird/docs4dronebirds/blob/master/organization/ICS_Operation.jpg?raw=true)
 * 実行部(Operations Leader) 
-   * みなみ まさき (Masaki Minami)
+   * みなみ まさき (Masaki Minami)[仮]
 
 ### 支部 (Branch)
 * 支部長(Branch Leader) 
