@@ -1,3 +1,5 @@
+Last updated on 2020-08-13
+
 ![ICS Organization](https://github.com/dronebird/docs4dronebirds/blob/master/organization/ICS_Organization.jpg?raw=true)
 
 # DRONEBIRD Organization [based on ICS](https://ja.wikipedia.org/wiki/インシデント・コマンド・システム) 
@@ -23,6 +25,7 @@
 ### 支部 (Branch)
 * 支部長(Branch Leader) 
    * 千葉県： 高橋 章浩 (Akihiro Takahashi)
+   * 東京都： 小路丸 未来 (Mirai Kojimaru)
 
 
 ## 計画情報部 (Planning)
