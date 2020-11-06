@@ -11,6 +11,14 @@
 
 
 ## 関連ドキュメント
+* 各種マニュアル https://github.com/dronebird/docs4dronebirds/tree/master/SOPs
+* チェックリスト https://github.com/dronebird/docs4dronebirds/tree/master/checklist
+* Cirtification https://github.com/dronebird/docs4dronebirds/tree/master/Certification
+
+### アドベントカレンダー
+* 2018 https://qiita.com/advent-calendar/2018/dronebird
+* 2019 https://qiita.com/advent-calendar/2019/dronebird
+* 2020 https://qiita.com/advent-calendar/2020/dronebird
 
 ### 配布用パンフレット
 * [A4サイズ用配布資料 2種類(PDF)](https://github.com/dronebird/docs4dronebirds/blob/master/DRONEBIRDposter_2017-04-06%20(2).pdf)
