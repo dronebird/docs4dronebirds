@@ -12,7 +12,6 @@ NPO法人クライシスマッパーズ・ジャパン
 
 ## 当リリース及び当団体についてのお問合せ先
 NPO法人クライシスマッパーズ・ジャパン
-
-e-mail： info@crisismappers.jp
-Web： http://crisismappers.jp/
-問い合わせフォーム: http://crisismappers.jp/contact.html
+* e-mail： info@crisismappers.jp
+* Web： http://crisismappers.jp/
+* 問い合わせフォーム: http://crisismappers.jp/contact.html
