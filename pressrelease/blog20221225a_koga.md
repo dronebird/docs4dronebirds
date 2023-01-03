@@ -143,10 +143,9 @@ RTL（Return to Launch）操作の確認
 機体のSafetyスイッチで**Safety解除した状態**でArm（スイッチON）操作を行います。
 
 ## プロペラ回転の確認
- １.　プロポのスライトレバーでビークルタイプをMCに、モードをStabilizedとし、機体が浮上しないように左スティックを一番下に倒して指で押さえます。
- ２.　プロポでArmします。Armするとマルチコプター用プロペラが回転します。
- ３.　プロペラの回転が確認出来たらDisarm（スイッチOFF）します。
-モードが切り替わること、スイッチのポジションとモードとが一致していることを確認します。
+ 1. プロポのスライトレバーでビークルタイプをMCに、モードをStabilizedとし、機体が浮上しないように左スティックを一番下に倒して指で押さえます。プロポでArmします。Armするとマルチコプター用プロペラが回転します。
+ 2. プロペラの回転が確認出来たらDisarm（スイッチOFF）します。
+ 3. モードが切り替わること、スイッチのポジションとモードとが一致していることを確認します。
 
 ## 動翼の確認
  1. プロポのスライドレバーでビークルタイプをMCからFWに切り替えます。
@@ -165,8 +164,6 @@ CMJが所有する同機は１機だけですが、パイロットのバック�
 メーカーの取扱説明書には、今回のレポートに記した以上のものが掲載されていますが、分かりにくいところもあることから、まずは私自身のために分かり易い表記のマイとりせつを作成していこうと思っています。
 
 以上
-
-
 
 ![image1.jpeg](https://github.com/dronebird/docs4dronebirds/blob/master/pressrelease/images/blog20221225a_koga/image2.jpeg?raw=true)
 ![image1.jpeg](https://github.com/dronebird/docs4dronebirds/blob/master/pressrelease/images/blog20221225a_koga/image3.jpeg?raw=true)
