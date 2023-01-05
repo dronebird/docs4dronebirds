@@ -15,11 +15,18 @@
 機体は、胴体（機体主要部）と両翼がそれぞれ３点に分かれています。
 ケースの中にはアクセサリーボックスがあり、プロポ、通信用モジュール、同アンテナ、同バッテリー、機体用バッテリー、マルチコプター用プロペラが収納されています。
 
+![image1.jpeg](https://github.com/dronebird/docs4dronebirds/blob/master/pressrelease/images/blog20221225a_koga/image2.jpeg?raw=true)
+
 翼の取り付けは、翼に組み込まれているカーボンパイプ（芯棒）を胴体の穴に差し込みカチッと音がするまで密着させます。
 このカーボンパイプと胴体の穴は精巧に作られているので、挿入角度に気を付けなければスムーズな着脱ができません。
 
+![image1.jpeg](https://github.com/dronebird/docs4dronebirds/blob/master/pressrelease/images/blog20221225a_koga/image4.jpeg?raw=true)
+
+![image1.jpeg](https://github.com/dronebird/docs4dronebirds/blob/master/pressrelease/images/blog20221225a_koga/image3.jpeg?raw=true)
+
 取り外しの際は、翼の下面側にある２ヶ所のラッチを翼の前縁側に押してロックを解除しながら翼を引き抜きます。
 この操作は、翼の保護と作業性を高めるため２人で行うのが効果的です。
+![image1.jpeg](https://github.com/dronebird/docs4dronebirds/blob/master/pressrelease/images/blog20221225a_koga/image5.jpeg?raw=true)
 
 固定翼用プロペラは装着済みになっていますが、マルチコプター用プロペラは着脱式になっています。実は、このマルチコプター用プロペラの着脱がなかなか手強いのです。
 取り付ける時は、まずプロペラ側のアダプターとモーター側のマウンターの２ヶ所のガイドを合わせ、プロペラを下に押し込んだまま時計回りにカチッと音がするまで回します。次に、アダプターを強く押し込みながら時計回りにカチッと音がするまで回すことで取り付け完了です。
